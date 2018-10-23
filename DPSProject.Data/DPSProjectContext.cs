@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DPSProject.Data
 {
-    public class Class1
+    public class DPSProjectContext
     {
     }
 }
